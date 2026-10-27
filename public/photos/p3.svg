@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f0c4"/><stop offset="1" stop-color="#f0d9a8"/></linearGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<path d="M50 25 C50 20 42 12 33 12 C22 12 15 21 15 30 C15 45 35 58 50 70 C65 58 85 45 85 30 C85 21 78 12 67 12 C58 12 50 20 50 25 Z" transform="translate(192,257) scale(0.12)" fill="#ffffff" opacity="0.35"/><path d="M433 328 L439 342 L453 342 L442 352 L446 368 L433 358 L420 368 L424 352 L413 342 L427 342 Z" fill="#ffffff" opacity="0.65"/><path d="M50 25 C50 20 42 12 33 12 C22 12 15 21 15 30 C15 45 35 58 50 70 C65 58 85 45 85 30 C85 21 78 12 67 12 C58 12 50 20 50 25 Z" transform="translate(406,242) scale(0.18)" fill="#ffffff" opacity="0.35"/><path d="M50 25 C50 20 42 12 33 12 C22 12 15 21 15 30 C15 45 35 58 50 70 C65 58 85 45 85 30 C85 21 78 12 67 12 C58 12 50 20 50 25 Z" transform="translate(511,493) scale(0.14)" fill="#ffffff" opacity="0.5"/>
+<text x="300" y="560" font-family="cursive" font-size="34" fill="#ffffff" text-anchor="middle" opacity="0.9">our photo goes here &#10084;</text>
+</svg>

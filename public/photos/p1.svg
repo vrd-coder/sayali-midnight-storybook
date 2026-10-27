@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7d9c4"/><stop offset="1" stop-color="#f2a6b3"/></linearGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<path d="M50 25 C50 20 42 12 33 12 C22 12 15 21 15 30 C15 45 35 58 50 70 C65 58 85 45 85 30 C85 21 78 12 67 12 C58 12 50 20 50 25 Z" transform="translate(208,410) scale(0.18)" fill="#ffffff" opacity="0.65"/><path d="M135 485 L141 499 L155 499 L144 509 L148 525 L135 515 L122 525 L126 509 L115 499 L129 499 Z" fill="#ffffff" opacity="0.65"/><path d="M50 25 C50 20 42 12 33 12 C22 12 15 21 15 30 C15 45 35 58 50 70 C65 58 85 45 85 30 C85 21 78 12 67 12 C58 12 50 20 50 25 Z" transform="translate(126,96) scale(0.19)" fill="#ffffff" opacity="0.65"/><path d="M280 104 L286 118 L300 118 L289 128 L293 144 L280 134 L267 144 L271 128 L260 118 L274 118 Z" fill="#ffffff" opacity="0.5"/><path d="M103 486 L109 500 L123 500 L112 510 L116 526 L103 516 L90 526 L94 510 L83 500 L97 500 Z" fill="#ffffff" opacity="0.5"/>
+<text x="300" y="560" font-family="cursive" font-size="34" fill="#ffffff" text-anchor="middle" opacity="0.9">our photo goes here &#10084;</text>
+</svg>
